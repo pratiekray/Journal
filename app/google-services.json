@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711260469879",
+    "firebase_url": "https://journal-e2971.firebaseio.com",
+    "project_id": "journal-e2971",
+    "storage_bucket": "journal-e2971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711260469879:android:2c56377a87ee1959d6e472",
+        "android_client_info": {
+          "package_name": "com.androidmonk.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711260469879-2kd4r5cvisust3c0ibnt2r0163qjl709.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8QnC9ywyYKxTPrNNNffRLEfXqRMrFonk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711260469879-2kd4r5cvisust3c0ibnt2r0163qjl709.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
